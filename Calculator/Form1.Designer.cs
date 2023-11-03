@@ -104,9 +104,9 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(237, 171);
+            this.button2.Location = new System.Drawing.Point(237, 159);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(64, 24);
+            this.button2.Size = new System.Drawing.Size(60, 36);
             this.button2.TabIndex = 7;
             this.button2.Text = "Tru";
             this.button2.UseVisualStyleBackColor = true;
